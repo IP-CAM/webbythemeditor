@@ -1,0 +1,3 @@
+http://egorkhmelev.github.io/jslider/
+http://code.google.com/p/jquery-numberformatter/
+https://vaadin.com/directory#addon/jslider-add-on
